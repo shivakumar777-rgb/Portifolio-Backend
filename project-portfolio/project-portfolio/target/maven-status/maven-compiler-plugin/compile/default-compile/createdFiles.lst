@@ -1,0 +1,5 @@
+com\nec\controller\ProjectController.class
+com\nec\model\Project.class
+com\nec\ProjectPortfolioApplication.class
+com\nec\service\ProjectService.class
+com\nec\repository\ProjectRepository.class
